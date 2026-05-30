@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://d2uijiasc8h00"]
+
+[ext_resource type="Script" uid="uid://bo40dgcqgcss" path="res://manager/fsm/game_states/action_state/ActionState.cs" id="1_owbal"]
+
+[node name="ActionState" type="Node" unique_id=426561116]
+script = ExtResource("1_owbal")

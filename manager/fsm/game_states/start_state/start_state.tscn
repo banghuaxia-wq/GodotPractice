@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://brx2f1qyjc55l"]
+
+[ext_resource type="Script" uid="uid://b8expwcv5kk7f" path="res://manager/fsm/game_states/start_state/StartState.cs" id="1_8au4j"]
+
+[node name="StartState" type="Node" unique_id=136505290]
+script = ExtResource("1_8au4j")

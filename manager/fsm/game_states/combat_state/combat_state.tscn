@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://dux0jfdn1m1kx"]
+
+[ext_resource type="Script" uid="uid://dmofbg6e6lkai" path="res://manager/fsm/game_states/combat_state/CombatState.cs" id="1_v71sj"]
+
+[node name="CombatState" type="Node" unique_id=287347048]
+script = ExtResource("1_v71sj")
